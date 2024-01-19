@@ -1,0 +1,46 @@
+nav {
+background-color: #1b1b1b;
+padding: 2rem;
+position: fixed;
+}
+
+.nav-link {
+    color: #A5A5A5;
+  }
+
+  .nav-link:hover {
+    color: white;
+  }
+
+  .collapse {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .first-line-font {
+    font-size: 14px;
+  }
+
+  .second-line-font {
+    font-size: 20px;
+  }
+
+  .first-line-locate {
+    text-align: right;
+  }
+
+  .search-query {
+    width: 360px;
+    height: 40;
+    padding-left: 30px;
+  padding-right: 30px;
+  background-color: black;
+  color: #A5A5A5;
+  border: 0px;
+  }
+
+  .search-icon {
+    position: relative;
+    left: 30px;
+    color: #A5A5A5;
+  }
